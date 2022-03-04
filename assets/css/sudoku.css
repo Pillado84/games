@@ -1,0 +1,9 @@
+.numeros, .numeros  tr, .numeros tr td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.numeros {
+    width: 200px;
+    height: 200px;
+}
